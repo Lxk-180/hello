@@ -1,2 +1,2 @@
 # hello
-i love pizze
+i love pizza
